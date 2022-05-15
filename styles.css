@@ -1,0 +1,21 @@
+body {
+    font-family: helvetica;    
+    background-size: cover;
+    color: black;
+}
+
+span {
+    margin-left: 5px;    
+}
+
+button {
+    background-color: #A87DD6;   
+    color: white;
+    border: none;
+    padding: 5px 10px;
+}
+
+h2 {
+    color: #A87DD6; 
+    text-align: center;
+}
